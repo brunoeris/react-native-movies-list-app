@@ -1,3 +1,3 @@
-# Movies list app
+# React Native Android
 
-## React Native Android
+### Movies list app
